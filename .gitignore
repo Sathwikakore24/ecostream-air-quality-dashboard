@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+
+# Local SQLite database (regenerated at runtime)
+ecostream.db
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
